@@ -1,0 +1,15 @@
+    1  ls
+    2  ls -la
+    3  man ls
+    4  man man
+    5  pwd
+    6  whoami
+    7  echo "hola"
+    8  echo $HOME
+    9  ls
+   10  cat README 
+   11  cd repogit
+   12  git clone https://github.com/candeiz/Arquitectura.Candela.Izquierdo.git
+   13  cd Arquitectura.Candela.Izquierdo
+   14  history
+   15  history > historial.txt
